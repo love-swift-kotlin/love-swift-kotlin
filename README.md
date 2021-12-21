@@ -1,1 +1,3 @@
-# love-swift-kotlin
+# Swift/Kotlin愛好会のページだよ
+
+工事しはじめたばっかだからちょっと待ってね🚧
