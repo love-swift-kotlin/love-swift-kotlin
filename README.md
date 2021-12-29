@@ -10,6 +10,8 @@ Swift愛好会、Kotlin愛好会はSwift/Kotlin好きが集まってわいわい
 
 Swift愛好会、Kotlin愛好会、SwiftKotlin合同愛好会のいずれかを **月１開催**目標で実施しています。
 
+いつも使っている愛好会の説明スライドは[こちら](https://docs.google.com/presentation/d/1pvlF8qwu4r-vsS6dMMU0t1-KkilBPGVsHVZ8xLm7nN4/edit#slide=id.p)
+
 ## Connpass
 
 Swift/Kotlin愛好会の開催告知はconnpassにて行っています。
